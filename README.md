@@ -1,3 +1,3 @@
 # turixcs.github.io
-## Cursos de turixcs
+## Cursos de turix
  
